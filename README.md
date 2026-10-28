@@ -1,11 +1,12 @@
 # Portfolio Landing Page
 
-Portfolio landing page statis untuk Muhammad Rizki Fahrurrozi yang siap dipublikasikan ke GitHub Pages.
+Portfolio landing page statis untuk Muhammad Rizki Fahrurrozi yang sudah dibuat dalam format formal dan siap dipublikasikan ke GitHub Pages.
 
-## Informasi profil
+## Profil
 
 Nama: Muhammad Rizki Fahrurrozi
-Focus: Full Stack Developer, UI/UX, aplikasi web, sistem informasi, dashboard, booking system, dan website publik.
+Role: Full Stack Developer, UI/UX Designer
+Focus: Aplikasi web, dashboard, booking system, e-katalog, PPDB, sistem informasi, serta solusi digital untuk kebutuhan bisnis.
 
 ## Skill utama
 
@@ -16,10 +17,10 @@ Focus: Full Stack Developer, UI/UX, aplikasi web, sistem informasi, dashboard, b
 - C++
 - UI/UX Design
 - Responsive Web Design
+- Problem Solving
 - System thinking
-- PWA / web app
 
-## Project publik yang masuk daftar portfolio
+## Project publik yang ditampilkan
 
 - attendance-system
 - e-katalog
@@ -31,19 +32,19 @@ Focus: Full Stack Developer, UI/UX, aplikasi web, sistem informasi, dashboard, b
 - web_app
 - invoice-irpoint
 
-## Cara publish ke GitHub Pages
+## Publish ke GitHub Pages
 
-1. Push semua file ke repositori GitHub Anda.
+1. Push file ke repo GitHub.
 2. Buka Settings -> Pages.
-3. Pilih branch utama (`main`).
-4. Folder root `/`.
+3. Pilih branch: main.
+4. Folder: /root.
 5. Save.
 
-## Link repo
+## Repo
 
 - https://github.com/oyaji078/portfolio-pages
 
-## Demo URL yang akan dibuat
+## URL demo
 
 - https://oyaji078.github.io/portfolio-pages/
 
